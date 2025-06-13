@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @davidbrozovic
-- 👀 I’m interested in new thing every day
-- 🌱 I’m currently learning how to programme like Dani
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently learning how to program in swift
 - vvv 📫 How to reach me vvv
-- Instagram: @dejvid_b
 - Email: brozovicdavid@gmail.com
 
 <!---
